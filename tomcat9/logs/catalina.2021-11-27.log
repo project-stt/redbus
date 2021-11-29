@@ -1,0 +1,78 @@
+27-Nov-2021 00:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 00:28:02.182 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 1 ms
+27-Nov-2021 01:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 01:28:02.181 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 2 ms
+27-Nov-2021 02:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 02:28:02.180 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 1 ms
+27-Nov-2021 03:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 03:28:02.181 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 2 ms
+27-Nov-2021 03:37:45.319 SEVERE [ajp-nio-8009-exec-5] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature 5635
+27-Nov-2021 04:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 04:28:02.180 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 1 ms
+27-Nov-2021 05:18:47.709 INFO [http-nio-8080-exec-3] org.apache.coyote.http11.Http11Processor.service Error parsing HTTP request header
+ Note: further occurrences of HTTP header parsing errors will be logged at DEBUG level.
+ java.lang.IllegalArgumentException: Invalid character found in method name. HTTP method names must be tokens
+	at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:462)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:667)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:802)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1452)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+27-Nov-2021 05:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 05:28:02.180 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 1 ms
+27-Nov-2021 06:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 06:28:02.180 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 1 ms
+27-Nov-2021 07:28:02.180 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 07:28:02.183 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 2 ms
+27-Nov-2021 07:59:31.641 SEVERE [ajp-nio-8009-exec-8] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature 23205
+27-Nov-2021 08:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 08:28:02.180 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 1 ms
+27-Nov-2021 09:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 09:28:02.180 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 1 ms
+27-Nov-2021 10:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 10:28:02.182 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 3 ms
+27-Nov-2021 10:55:12.582 INFO [telemetry collection thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started telemetry collection
+27-Nov-2021 10:55:12.584 INFO [telemetry collection thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished telemetry collection. 2 ms
+27-Nov-2021 11:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 11:28:02.180 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 1 ms
+27-Nov-2021 12:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 12:28:02.180 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 1 ms
+27-Nov-2021 12:52:30.707 INFO [Workspace clean-up thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Workspace clean-up
+27-Nov-2021 12:52:30.707 INFO [Workspace clean-up thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Workspace clean-up. 0 ms
+27-Nov-2021 12:58:43.689 INFO [Fingerprint cleanup thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Fingerprint cleanup
+27-Nov-2021 12:58:43.690 INFO [Fingerprint cleanup thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Fingerprint cleanup. 0 ms
+27-Nov-2021 13:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 13:28:02.180 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 1 ms
+27-Nov-2021 14:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 14:28:02.181 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 1 ms
+27-Nov-2021 15:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 15:28:02.180 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 1 ms
+27-Nov-2021 15:31:51.239 INFO [Download metadata thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Download metadata
+27-Nov-2021 15:31:51.344 INFO [Download metadata thread] hudson.model.DownloadService$Downloadable.load Obtained the updated data file for hudson.tasks.Maven.MavenInstaller
+27-Nov-2021 15:31:51.370 INFO [Download metadata thread] hudson.model.DownloadService$Downloadable.load Obtained the updated data file for hudson.tasks.Ant.AntInstaller
+27-Nov-2021 15:31:51.430 INFO [Download metadata thread] hudson.model.DownloadService$Downloadable.load Obtained the updated data file for hudson.plugins.gradle.GradleInstaller
+27-Nov-2021 15:31:51.763 INFO [Download metadata thread] hudson.model.DownloadService$Downloadable.load Obtained the updated data file for hudson.tools.JDKInstaller
+27-Nov-2021 15:31:51.764 INFO [Download metadata thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Download metadata. 524 ms
+27-Nov-2021 16:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 16:28:02.180 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 1 ms
+27-Nov-2021 17:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 17:28:02.180 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 1 ms
+27-Nov-2021 18:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 18:28:02.183 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 3 ms
+27-Nov-2021 19:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 19:28:02.180 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 1 ms
+27-Nov-2021 20:15:03.775 SEVERE [ajp-nio-8009-exec-10] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature 5635
+27-Nov-2021 20:15:04.822 SEVERE [ajp-nio-8009-exec-1] org.apache.coyote.ajp.AjpMessage.processHeader Invalid message received with signature 18245
+27-Nov-2021 20:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 20:28:02.184 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 5 ms
+27-Nov-2021 21:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 21:28:02.183 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 4 ms
+27-Nov-2021 22:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 22:28:02.180 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 1 ms
+27-Nov-2021 23:28:02.179 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Started Periodic background build discarder
+27-Nov-2021 23:28:02.180 INFO [Periodic background build discarder thread] hudson.model.AsyncPeriodicWork.lambda$doRun$0 Finished Periodic background build discarder. 1 ms
